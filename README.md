@@ -1,2 +1,1 @@
-# CPP-Class-Codes
-this is for all of the programs I make in my c++ class
+This will be a repo for all of the codes I make while in school!
