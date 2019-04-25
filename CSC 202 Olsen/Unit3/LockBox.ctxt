@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=password
+comment0.target=LockBox(java.lang.String)
+comment0.text=\r\n\ CONSTRUCTORS\r\n
+comment1.params=
+comment1.target=boolean\ isLocked()
+comment1.text=\r\n\ This\ method\ will\r\n\ return\ true\ if\ the\ box\ is\ still\ locked\r\n\ and\ return\ false\ if\ it\ was\ opened\r\n\ \r\n\ @return\ false\ when\ the\ correct\ password\ was\ guessed\r\n
+comment2.params=password
+comment2.target=void\ unlock(java.lang.String)
+comment2.text=\r\n\ This\ method\ is\ supposed\ to\ have\ the\ user\ imputted\ guess\ \r\n\ if\ correct\ -->\ it\ should\ unlock\ the\ box\r\n\ if\ wrong\ -->it\ should\ stay\ locked\r\n
+comment3.params=
+comment3.target=void\ printPassword()
+comment3.text=\r\n\ This\ method\ should\ print\ the\ password\ after\ all\ of\ the\ guesses\ are\ done.\r\n
+numComments=4

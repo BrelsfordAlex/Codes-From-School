@@ -1,0 +1,59 @@
+
+/**
+ * This object class will do the following
+ * 
+ * 
+ * 
+ * @author (your name) 
+ */
+public class LockBox
+{
+
+}
+/**
+ *(1)  two fields 
+ *          (a) private Boolean isLocked --- keeps track of whether the box is locked or not.
+ *          (b) private String itsPassword --- store the correct variable in this variable.
+(2) three methods:
+            (a) isLocked() --- returns true if the lock-box is currently locked.
+            (b) unlock(String password) --- this method simulates the unlocking procedure. If the
+                        password is equal to itsPassword, then the box should become unlocked.
+            (c) printPassword() --- this method prints the correct password to the terminal.
+(3) The class will have one constructor:
+            (a) LockBox(String password) --- this builds a new lock-box with the given password.
+(4) Create an application class, call it PasswordGame. In the main method, 
+            (1) create a lock-box with
+                    a password of your choice. 
+            (2) Create an integer variable guesses which you will use to
+                            determine if the user has more guesses left. 
+            (3) Create a scanner which you will use to read
+                            guesses from the user through the terminal. 
+                            The psuedocode for the rest of the main method is as
+                            follows (following page):
+ *
+ */
+
+
+
+/**
+ * Psudocode part 1 (FIELDS)
+                 * private Boolean isLocked
+                 * private String itsPassword
+                 * CONSTRICTOR
+                            *public LockBox (Boolean locked , String password)
+                            *{
+                            *           isLocked = locked
+                            *           ItsPassword = password
+                            *}
+ * PART 2 (METHODS)
+                 * isLocked()
+                        * boolean method
+                        * always false
+                        * unless 
+                                    * 
+                 * 
+                        * 
+                 * 
+                        * 
+ * 
+ */

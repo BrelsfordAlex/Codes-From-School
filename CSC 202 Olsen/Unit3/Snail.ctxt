@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=start
+comment0.target=Snail(int)
+comment0.text=\ \r\n\ Constrictor\r\n\ Creates\ a\ new\ snail\ (\ i.e\ initialize\ all\ snail\ fields)\r\n\ @param\ start\ tells\ where\ the\ snail\ startss\r\n
+comment1.params=
+comment1.target=int\ getDistance()
+comment1.text=\r\n\ Returns\ the\ distance\ the\ Snail\ has\ moved\r\n
+comment2.params=
+comment2.target=void\ moveOne()
+comment2.text=\r\n\ Moves\ the\ snail\ forward\ one\ slide\r\n
+comment3.params=numberOfSlides
+comment3.target=void\ slideRight(int)
+comment3.text=\r\n\ This\ method\ will\ move\ the\ snail\ a\ user\ imputted\ amount.\ \r\n\ Snail\ will\ complain\ and\ not\ love\ if\ it\ gets\ a\ negitive\ number\r\n\ @param\ numberOfSlides\ \r\n
+comment4.params=
+comment4.target=int\ getLocation()
+comment5.params=other
+comment5.target=boolean\ sameLocation(Snail)
+comment5.text=\r\n\ This\ method\ will\ \r\n\ TEST\ to\ see\ if\ 2\ snails\ are\ in\ the\ same\ location\r\n\ @param\ other\ another\ snail\r\n
+numComments=6
