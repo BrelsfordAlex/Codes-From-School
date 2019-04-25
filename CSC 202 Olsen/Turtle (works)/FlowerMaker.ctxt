@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ squarePetaledFlower()
+comment0.text=\ \r\n\ \r\n\ This\ method\ will\ draw\ a\ square\ petaled\ flower\r\n\ and\ will\ not\ affect\ the\ location\ or\ heading\ of\ the\ turtle.\r\n\ The\ FlowerMaker\ starts\ at\ the\ bottom\ center\ of\ the\ flower\ \r\n\ 200px\ \ by\ 10\ px\ stem.\ \r\n\ Flower\ center\ is\ 16.666\ px\ in\ radius.\ \r\n\ Petals\ are\ 33.333\ px\ wide\ and\ long.\r\n\ Colors\:\ \r\n\ Petals-Blue\r\n\ Stem-green\r\n\ Center-\ Red\r\n\ \r\n
+comment1.params=
+comment1.target=void\ drawTwoSquarePetaledFlowers()
+comment1.text=\ \r\n\ Draw's\ 2\ square\ petaled\ flowers\ \r\n\ 120\ px\ apart\ at\ the\ center\r\n\ turtle\ at\ the\ center\r\n
+comment2.params=
+comment2.target=void\ draw5Grass()
+comment2.text=\r\n\ Draw's\ 5\ blades\ of\ grass.\ \r\n\ 10px\ Wide\r\nAll\ blades\ will\ be\ Atleast\ \ 20\ px\ high\ \r\n\ and\ blade\ 5\ is\ 20\ px\ high\r\n\ Color\ is\ ORANGE\r\n\ Turtle\ will\ be\ centered\ \ on\ the\ bottom\ of\ the\ grass\ and\ facing\ right\ \r\n
+comment3.params=
+comment3.target=void\ draw25Grass()
+comment3.text=\r\n\ Copies\ draw5Grass\ 5\ times\ to\ look\ like\ multiple\ grass\ spots.\r\n\ Turtle\ will\ end\ up\ in\ the\ center\ of\ the\ drawing\ facing\ right\ \r\n\ one\ in\ the\ center\ 2\ on\ the\ right\ and\ 2\ on\ the\ left\ \r\n\ \r\n
+numComments=4

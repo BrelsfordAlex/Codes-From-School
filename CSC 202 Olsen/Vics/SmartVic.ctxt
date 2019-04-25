@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ takeCDMoveOn()
+comment1.params=
+comment1.target=void\ robustMoveIfSeesCD()
+comment1.text=Moves\ on\ 1\ slot\ if\ there\ is\ a\ CD\ but\ robustly
+comment2.params=
+comment2.target=void\ moveToFirstSlot()
+comment2.text=this\ method\ moves\ thee\ vic\ back\ to\ the\ first\ slot\ from\ whereever\ it\ is\ robustly
+comment3.params=
+comment3.target=boolean\ rowHasCD()
+comment3.text=\r\n\ 1)\ \ \ Answer\ \uF0DF\ false\ (declare\ and\ initialize)\r\n\ \ \ \ \ \ \ 2)\ \ \ While\ sees\ Slot\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ a.\ \ If\ sees\ CD\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ i.\ \ Answer\ \uF0DF\ true\r\n\ \ \ \ \ \ \ \ \ \ \ \ b.\ \ Move\ on\r\n\ \ \ \ \ \ \ 3)\ \ While\ not\ at\ the\ beginning\r\n\ \ \ \ \ \ \ \ \ \ \ \ a.\ \ Back\ up\r\n\ \ \ \ \ \ \ \ 4)\ \ Return\ answer\r\n\r\nthis\ method\ will\ see\ if\ there\ is\ a\ cd\ in\ the\ row\ and\ RETURN\ true\ if\ there'\r\nis\ atlease\ 1\ cd\ in\ the\ row.\r\nROBUST\r\n@return\ true\ when\ there\ is\ a\ CD\ in\ the\ row\r\n\r\n
+numComments=4

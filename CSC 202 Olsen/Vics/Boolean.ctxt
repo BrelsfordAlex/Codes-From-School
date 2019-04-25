@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ robustSeesCD()
+comment0.text=\r\n\ seesCS\ without\ error.\r\n\ @return\ true\ if\ there\ is\ a\ slot\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ a\ CD.\r\n
+comment1.params=
+comment1.target=boolean\ robustSeesCD2()
+numComments=2

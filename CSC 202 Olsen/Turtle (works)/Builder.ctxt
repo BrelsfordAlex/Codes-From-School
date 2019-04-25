@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ drawWindow()
+comment0.text=\r\n\ \r\n\ This\ method\ will\ \ Draw\ a\ window\ \r\n\ at\ the\ center\ is\ the\ turtle\r\n\ The\ window\ will\ be\ Turtle.ORANGE\r\nIt\ will\ be\ 50x50\ with\ a\ plus\ in\ the\ middle\ that\ creates\ 25x25\ boxes\ (4\ of\ them)\r\n\ \r\n
+comment1.params=
+comment1.target=void\ drawRowOfWindows()
+comment1.text=\r\n\ \r\n\ This\ method\ will\ draw\ a\ row\ of\ 3\ windows\r\n\ they\ will\ be\ 100\ px\ from\ center\ to\ center\ apart\r\n\ the\ turtle\ will\ be\ in\ the\ center\ of\ the\ middle\ one\ facing\ right\r\n\ \r\n
+comment2.params=
+comment2.target=void\ drawThreeFloorsOfWindows()
+comment2.text=\r\n\ \r\n\ this\ method\ will\ draw\ 3\ floors\ of\ windows\r\n\ 100px\ apart\ from\ eachother\r\n\ turtle\ in\ the\ center\ of\ that\ center\ row\r\n\ \r\n
+comment3.params=
+comment3.target=void\ drawBuilding()
+comment3.text=\ \r\n\ \r\n\ this\ method\ will\ draw\ a\ \ Turtle.BROWN\ box\r\n\ 400x400\ \r\n\ then\ the\ drawThreeFloorsOfWindows();\ the\ center\ row\ in\ the\ center\ of\ the\ \r\n\ box\r\n\ \r\n
+numComments=4

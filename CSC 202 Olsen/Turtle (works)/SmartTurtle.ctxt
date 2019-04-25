@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ drawLine()
+comment0.text=\r\n\ \r\n\ draw\ a\ length\ 100\ line\ with\ turtle\ centered\r\n\ in\ the\ middle\ of\ the\ line\r\n\ the\ angle\ of\ the\ line\ will\ be\ determined\ by\ the\ heading\ of\ the\ turtle.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ circleplus()
+comment1.text=\r\n\ \r\n\ draws\ a\ circle\ with\ a\ plus\ inside\r\n\ all\ Plus\ sides\ are\ 100px\ long\ and\ circle\ has\ a\ radius\ of\ 40\r\n\ smartturtle\ at\ center\r\n\ no\ effect\ on\ heading\ \r\n\ \r\n
+numComments=2

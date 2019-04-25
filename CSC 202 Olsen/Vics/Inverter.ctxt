@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ swapState()
+comment0.text=\r\n\ This\ Method\ will\ see\ if\ there\ is\ a\ Slot\ where\ the\ Vic\ is\r\n\ Then\ it\ will\ If\ there\ is\ a\ CD\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Take\ the\ CD\ and\ move\ to\ next\ slot\r\n\ if\ there\ is\ no\ CD\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ put\ a\ CD\ down\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ move\ on\r\n\ Robustly\ \ \r\n
+comment1.params=
+comment1.target=boolean\ isOnFirstSlot()
+comment1.text=\ \r\n\ This\ method\ will\ be\ boolean\r\n\ @return\ true\ if\ the\ Vic\ was\ on\ the\ first\ slot\r\n
+comment2.params=
+comment2.target=void\ moveToFirstSlot()
+comment2.text=\r\n\ This\ method\ will\:\r\n\ move\ the\ vic\ to\ the\ first\ slot\r\n\ from\ any\ spot\ in\ the\ program\r\n\ robust\r\n
+numComments=3

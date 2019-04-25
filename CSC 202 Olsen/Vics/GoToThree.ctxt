@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Moves\ VIC\ to\ third\ slot\ using\ 1\ moveOn()\r\n\ \r\n\ test\ cases\r\n\ \r\n\ 1)\ "1"\ --move\ to\ END\ --\ Fail--\r\n\ \r\n\ 2)\ ""\ --no\ error--Fail--\r\n\ \r\n\ 3)\ "111"\ --move\ to\ slot\ 3\ --works--\r\n\ \r\n
+numComments=1

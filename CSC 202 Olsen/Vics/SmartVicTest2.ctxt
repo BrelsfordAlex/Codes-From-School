@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\nTest\ Cases\:\ \r\n\r\n"110"\ -\ Bob\ should\ see\ a\ cd\ and\ move\ to\ the\ next\ slot\ --WORKS--Try2\ WORK\r\n\r\n"001"\ -\ Bob\ shouldn't\ move\ at\ all.\ --WORKS--TRY2\ WORKS\r\n\r\n""\ -\ No\ errors\ should\ occur.\ At\ END--\ Try1)FAIL--Try2)WORKS\r\n\ \r\n
+numComments=1
