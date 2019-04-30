@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<web-app>  
+  
+ <error-page>  
+  <exception-type>java.lang.Exception</exception-type>  
+  <location>/error.jsp</location>  
+  </error-page>  
+   
+</web-app>  

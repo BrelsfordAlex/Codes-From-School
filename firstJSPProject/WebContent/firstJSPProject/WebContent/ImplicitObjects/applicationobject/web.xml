@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<web-app>  
+  
+<servlet>  
+<servlet-name>sonoojaiswal</servlet-name>  
+<jsp-file>/welcome.jsp</jsp-file>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>sonoojaiswal</servlet-name>  
+<url-pattern>/welcome</url-pattern>  
+</servlet-mapping>  
+  
+<context-param>  
+<param-name>dname</param-name>  
+<param-value>sun.jdbc.odbc.JdbcOdbcDriver</param-value>  
+</context-param>  
+  
+</web-app>  
